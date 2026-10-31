@@ -87,5 +87,5 @@ Gemini (com Web Code Canvas): Utilizado para a criação, prototipação, refato
 Execução de Código em Python (Data Science Interpreter): Utilizado para leitura, sanitização, análise estatística e extração do payload JSON a partir da planilha Tabela arrumada .xlsx. 
 
 5. Endereço da Dashboard Publicada 
-
+https://krelzor.github.io/Dashboard-feita-com-ia-DIO/
  
